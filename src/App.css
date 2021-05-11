@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.players-list{
+display: flex;
+background-color: salmon;
+width: 100%;
+}
+.players{
+  width: 70%;
+  float: left;
+  align-items: center;
+  border-right: 1px solid green;
+}
+.my-team{
+  margin: 0 auto;
+  
+}

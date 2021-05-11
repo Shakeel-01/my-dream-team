@@ -1,0 +1,106 @@
+[{
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "email": "bgenge0@ed.gov",
+    "salary": 1000,
+    "image": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893500-e1517999434590.jpg"
+  }, {
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper",
+    "email": "dranger1@cbsnews.com",
+    "salary": 700,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg"
+  }, {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "Allrounder",
+    "email": "poliveira2@sohu.com",
+    "salary": 1500,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg"
+  }, {
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "WicketKeeper",
+    "email": "cgowlett3@people.com.cn",
+    "salary": 1000,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg"
+  }, {
+    "name": "Mahmudullah",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "email": "shurrion4@usda.gov",
+    "salary": 1000,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg"
+  }, {
+    "name": "Mosaddek Hossain",
+    "country": "Bangladesh",
+    "role": "Allrounder",
+    "email": "akelston5@pen.io",
+    "salary": 600,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170909/mosaddek-hossain.jpg"
+  }, {
+    "name": "Mehedy Hasan",
+    "country": "Bangladesh",
+    "role": "Allrounder",
+    "email": "dapfelmann6@fda.gov",
+    "salary": 600,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg"
+  }, {
+    "name": "Saifuddin",
+    "country": "Bangladesh",
+    "role": "Allrounder",
+    "email": "hthomann7@bizjournals.com",
+    "salary": 600,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg"
+  }, {
+    "name": "Mashrafe Bin Mortaza",
+    "country": "Bangladesh",
+    "role": "bowler",
+    "email": "acyseley8@seattletimes.com",
+    "salary": 1000,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg"
+  }, {
+    "name": "Rubel Hossain",
+    "country": "Bangladesh",
+    "role": "bowler",
+    "email": "cmussington9@wisc.edu",
+    "salary": 700,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170922/rubel-hossain.jpg"
+  }, {
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "email": "mcoutha@goodreads.com",
+    "salary": 800,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg"
+  }, {
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "email": "pbelzb@census.gov",
+    "salary": 500,
+    "image": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg"
+  }, {
+    "name": "Mohammad Mithun",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "email": "dvandermarkc@auda.org.au",
+    "salary":500,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170918/mohammad-mithun.jpg"
+  }, {
+    "name": "Nazmul Hossain",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "email": "corrod@goo.ne.jp",
+    "salary": 400,
+    "image": "http://s3.amazonaws.com/batsman/Nazmul%20Hossain%20Shanto_a3529f90-231c-41cf-b220-0323826e9ac0.JPG"
+  }, {
+    "name": "Taijul Islam",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "email": "agrigoryove@blogger.com",
+    "salary": 500,
+    "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/5/7455.jpg"
+  }]
